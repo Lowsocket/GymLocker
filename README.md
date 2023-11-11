@@ -1,5 +1,5 @@
 # GymLocker
-Gymkluisje voor je fivem server in basicfit Bij Lowsocket!
+Gymkluisje voor je fivem server in basicfit! Door Lowsocket.
 
 Dev support nodig?
 
